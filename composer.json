@@ -3,8 +3,6 @@
   "description": "JHService Singleton",
   "type": "library",
   "keywords": [
-    "JHService",
-    "Singleton",
     "jhservice",
     "singleton"
   ],
@@ -18,21 +16,15 @@
   "support": {
     "email": "mrbugminer@gmail.com"
   },
-  "require": {
-  },
-  "require-dev": {
-  },
   "autoload": {
     "psr-4": {
       "JHService\\Singleton\\": "src/"
-    },
-    "files": []
+    }
   },
   "autoload-dev": {
     "psr-4": {
       "JHService\\Singleton\\": "src/"
-    },
-    "files": []
+    }
   },
   "minimum-stability": "stable",
   "prefer-stable": true
