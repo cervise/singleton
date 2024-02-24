@@ -21,11 +21,6 @@
       "JHService\\Singleton\\": "src/"
     }
   },
-  "autoload-dev": {
-    "psr-4": {
-      "JHService\\Singleton\\": "src/"
-    }
-  },
   "minimum-stability": "stable",
   "prefer-stable": true
 }
